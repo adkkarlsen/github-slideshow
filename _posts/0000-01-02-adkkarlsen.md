@@ -2,5 +2,5 @@
  layout : lysbilde 
 tittel : " Velkommen til vårt andre lysbilde! "
 ---
-Din tekst 
-Bruk venstre pil for å gå tilbake!
+Opplæring I GitHub
+Bruk Venste Pil For Å Gå Tilbake 
